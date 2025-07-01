@@ -68,32 +68,6 @@ src/
 └── http/                       # Configuração da API
 ```
 
-## 🎨 Design System
-
-O projeto utiliza um design system consistente com:
-- Paleta de cores focada em tons de cinza com acentos em azul e roxo
-- Tipografia hierárquica com fontes personalizadas
-- Componentes reutilizáveis (Button, Input, etc.)
-- Layout responsivo com breakpoints bem definidos
-
-## 📅 Sobre o Evento
-
-**CodeCraft Summit 2025**
-- **Data**: 15 a 17 de março de 2025
-- **Horário**: Das 18h às 21h
-- **Formato**: Online e Gratuito
-- **Foco**: Desenvolvimento de software, arquitetura de sistemas e tecnologias emergentes
-
-O evento inclui palestras, workshops e hackathons para desenvolvedores de todos os níveis.
-
-## 🏆 Sistema de Gamificação
-
-O projeto implementa um sistema de gamificação onde:
-- Usuários ganham pontos por cada indicação bem-sucedida
-- Ranking em tempo real com medalhas para os top 3
-- Estatísticas individuais de performance
-- Incentivo à participação através de prêmios exclusivos
-
 ---
 
 Desenvolvido durante o NLW Connect da Rocketseat 🚀
