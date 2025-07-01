@@ -1,4 +1,4 @@
-# CodeCraft Summit 2025 - Sistema de Inscrições e Indicações
+# Sistema de Inscrições e Indicações
 
 ### Página Inicial - Inscrição no Evento
 ![Página de Inscrição](public/foto-1.png)
